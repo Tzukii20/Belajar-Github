@@ -13,3 +13,18 @@
 
 ## Progress
 Day 2:Learning to document my progress
+
+## Day 3: Learning Markdown
+
+### Markdown Basics
+- # creates a main heading.
+- ## creates a subheading.
+- **text** makes text bold.
+-  creates a bullet list.
+-  [text](URL) creates a link.
+
+### Practice
+Today I practiced Markdown formatting to make my documentation easier to read.
+
+### Next Goal
+Learn basic python programming
