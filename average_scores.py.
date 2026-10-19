@@ -1,0 +1,10 @@
+# My First Python Data Science Example
+
+scores = [80, 85, 90, 75, 95]
+
+total = sum(scores)
+average = total / len(scores)
+
+print("Student Scores:", scores)
+print("Total Scores:", total)
+print("Average Score:", average)
