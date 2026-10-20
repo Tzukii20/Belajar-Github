@@ -1,18 +1,24 @@
-# My Github Learning Journey
+# My Learning Journey
 
-Hello! Welcome to my Github profile.
+ Welcome to my Github learning repository!
 
-## About Me
--Learning Data Science
--Exploring python and data analysis
--Practicing Git and GitHub
+## About This Repository
 
-## My Goals
--Build useful projects
--Improve my programming skills
--Contribute to open-source projects
+This repository documents my journey in programming and data science.
+
+## Contents
+
+-Learning-notes.md: Github learning notes
+-python-basics.md: Python fundamentals
+-average_scores.py: Average score calculator
+
+## Learning Goals
+
+-Learn Github and Markdown
+-Practice Python programming
+-Explore data analysis
+-Build a Data Science portofolio
 
 ## Progress
--Created my first repository
--Started learning Markdown
--Practicing regular documentation updates
+
+Currently learning Github, Python, and basic data analysis
