@@ -1,5 +1,3 @@
-# My First Python Data Science Example
-
 scores = [80, 85, 90, 75, 95]
 
 total = sum(scores)
